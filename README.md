@@ -1,15 +1,7 @@
-# Thinkpad t460p opencore Big Sur
+# Thinkpad t460p for Monterey
 
-* This repo is based on : [T460PforMac](https://github.com/fhaoquan/T460PforMac)&&[Thinkpad-t460p-opencore](https://github.com/MAYDAY818/Thinkpad-t460p-opencore)
-* 相关资料
-- [一步一步从零迁移到OpenCore](https://heipg.cn/tutorial/example-of-from-clover-to-opencore.html)
-- [黑苹果 OC 引导一键生成工具，可用于 CLOVER 转换成 OpenCore](https://vlambda.com/wz_5ioRxrCfszc.html)
-
-- 目前屏幕亮度不能用,  使用SSDT-DGPU.aml 可以调节亮度, 但是会导致 HDMI & mini DP不能使用, 如果不外接屏幕, 勾选 SSDT-DGPU.aml 这个就可以了
-
-- 一键开启HiDPI 外接屏幕超爽的 [one-key-hidpi](https://github.com/xzhih/one-key-hidpi)
-
-## 🍺 Working:
+参考了很多大神的 EFI，目前，暂未知 BUG
+音量及亮度可调节
 
 | *项目*        | *工作与否*    |  *备注*  |
 | --------   | -----:   | :----: |
